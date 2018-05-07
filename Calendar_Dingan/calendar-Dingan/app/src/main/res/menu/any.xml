@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:title="BackHome"
+    android:id="@+id/id_back"
+    android:orderInCategory="100"
+    app:showAsAction="never"
+    />
+
+    <item
+        android:title="Edit Event"
+        android:id="@+id/id_editevent"
+        android:orderInCategory="101"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:title="Designer"
+        android:id="@+id/id_designer"
+        android:orderInCategory="103"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:title="@string/cacultor"
+        android:id="@+id/id_cacultor"
+        android:orderInCategory="104"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:title="Mark For Us"
+        android:id="@+id/id_note"
+        android:orderInCategory="105"
+        app:showAsAction="never"
+        />
+
+
+</menu>

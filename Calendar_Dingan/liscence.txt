@@ -1,0 +1,7 @@
+register and login function:https://github.com/mistermayne/android-login
+
+@drawable/androidicon.png: https://en.wikipedia.org/wiki/File:Littledevil512.png
+
+@drawable/splash: http://nextplz.fr/tutoriel/content/2049637-comment-ajouter-un-evenement-dans-son-calendrier-sur-iphone
+
+@drawable/image: http://2.wlimg.com/product_images/bc-full/dir_155/4646011/photo-calendar-01-1498197062_p_3082936_583358.jpeg

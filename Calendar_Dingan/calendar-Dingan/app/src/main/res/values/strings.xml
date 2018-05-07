@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">calendar</string>
+    <string name="home">Home</string>
+    <string name="login">Log In</string>
+    <string name="register">Register</string>
+    <string name="search">Search Today In Google</string>
+    <string name="add">Add event</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="splashview">Hello</string>
+    <string name="cacultor">CacultorTool</string>
+</resources>
